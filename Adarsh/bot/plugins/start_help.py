@@ -31,7 +31,7 @@ async def start(b, m):
                 [
                     [InlineKeyboardButton("⚡ UPDATES ⚡", url="https://t.me/elitecraft_studios"), InlineKeyboardButton("⚡ SUPPORT ⚡", url="https://t.me/JISSHU_BOTS")],
                     [InlineKeyboardButton("OWNER", url="https://t.me/IM_JISSHU"), InlineKeyboardButton("💠 DEVELOPER", url="https://t.me/JISSHU_BOTS")],
-                    [InlineKeyboardButton("💌 SUBSCRIBE 💌", url="https://youtube.com/@eJISSHU-BOTS")]
+                    [InlineKeyboardButton("💌 SUBSCRIBE 💌", url="https://youtube.com/@JISSHU-BOTS")]
                 ]
             ),
             
