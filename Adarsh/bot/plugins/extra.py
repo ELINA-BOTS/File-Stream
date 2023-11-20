@@ -22,7 +22,7 @@ async def master(b,m):
                     reply_markup=InlineKeyboardMarkup(
                         [
                             [
-                                InlineKeyboardButton("Developer💻", url=f"https://t.me/elitecraft_studios")
+                                InlineKeyboardButton("Developer💻", url=f"https://t.me/JISSHU_BOTS")
                             ]
                         ]
                     ),
