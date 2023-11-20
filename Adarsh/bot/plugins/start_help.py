@@ -104,7 +104,7 @@ async def about_handler(bot, message):
               
     await message.reply_photo(
             photo="https://graph.org/file/37858b895e6d5ec39b5ad.jpg",
-            caption="**sᴏᴍᴇ ʜɪᴅᴅᴇɴ ᴅᴇᴛᴀɪʟs😜\n\n╭━━━━━━━〔ғɪʟᴇ ᴛᴏ ʟɪɴᴋ ʙᴏᴛ〕\n┃\n┣⪼ʙᴏᴛ ɴᴀᴍᴇ : ғɪʟᴇ ᴛᴏ ʟɪɴᴋ\n┣⪼ᴜᴘᴅᴀᴛᴇᴢ : <a href='https://t.me/elitecraft_studios'>EliteCraft Studios</a>\n┣⪼sᴜᴘᴘᴏʀᴛ : <a href='https://t.me/elitecraft_support'>elitecraft support</a>\n┣⪼sᴇʀᴠᴇʀ : ʜᴇʀᴜᴋᴏ\n┣⪼ʟɪʙʀᴀʀʏ : ᴘʏʀᴏɢʀᴀᴍ\n┣⪼ʟᴀɴɢᴜᴀɢᴇ: ᴘʏᴛʜᴏɴ 3\n┣⪼ʏᴏᴜᴛᴜʙᴇ : <a href='https://youtube.com/@elitecraft_studios'>EliteCraft Studios</a>\n┃\n╰━━━━━━━〔ᴘʟᴇᴀsʀ sᴜᴘᴘᴏʀᴛ〕**", 
+            caption="**sᴏᴍᴇ ʜɪᴅᴅᴇɴ ᴅᴇᴛᴀɪʟs😜\n\n╭━━━━━━━〔ғɪʟᴇ ᴛᴏ ʟɪɴᴋ ʙᴏᴛ〕\n┃\n┣⪼ʙᴏᴛ ɴᴀᴍᴇ : ғɪʟᴇ ᴛᴏ ʟɪɴᴋ\n┣⪼ᴜᴘᴅᴀᴛᴇᴢ : <a href='https://t.me/JISSHU_BOTS'>JISSHU BOTS Studios</a>\n┣⪼sᴜᴘᴘᴏʀᴛ : <a href='https://t.me/JISSHU_BOTS'>jisshu support</a>\n┣⪼sᴇʀᴠᴇʀ : ʜᴇʀᴜᴋᴏ\n┣⪼ʟɪʙʀᴀʀʏ : ᴘʏʀᴏɢʀᴀᴍ\n┣⪼ʟᴀɴɢᴜᴀɢᴇ: ᴘʏᴛʜᴏɴ 3\n┣⪼ʏᴏᴜᴛᴜʙᴇ : <a href='https://youtube.com/@JISSHU-BOTS'>JISSHU BOTS Studios</a>\n┃\n╰━━━━━━━〔ᴘʟᴇᴀsʀ sᴜᴘᴘᴏʀᴛ〕**", 
   
         
         reply_markup=InlineKeyboardMarkup(
