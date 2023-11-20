@@ -29,7 +29,7 @@ async def start(b, m):
             caption="**ʜᴇʟʟᴏ...⚡\n\nɪᴀᴍ ᴀ sɪᴍᴘʟᴇ ᴛᴇʟᴇɢʀᴀᴍ ғɪʟᴇ/ᴠɪᴅᴇᴏ ᴛᴏ ᴘᴇʀᴍᴀɴᴇɴᴛ ʟɪɴᴋ ᴀɴᴅ sᴛʀᴇᴀᴍ ʟɪɴᴋ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ.**\n\n**ᴜsᴇ /help ғᴏʀ ᴍᴏʀᴇ ᴅᴇᴛsɪʟs\n\nsᴇɴᴅ ᴍᴇ ᴀɴʏ ᴠɪᴅᴇᴏ / ғɪʟᴇ ᴛᴏ sᴇᴇ ᴍʏ ᴘᴏᴡᴇʀᴢ...**",
             reply_markup=InlineKeyboardMarkup(
                 [
-                    [InlineKeyboardButton("⚡ UPDATES ⚡", url="https://t.me/elitecraft_studios"), InlineKeyboardButton("⚡ SUPPORT ⚡", url="https://t.me/JISSHU_BOTS")],
+                    [InlineKeyboardButton("⚡ UPDATES ⚡", url="https://t.me/JISSHU_BOTS"), InlineKeyboardButton("⚡ SUPPORT ⚡", url="https://t.me/Jisshu_support")],
                     [InlineKeyboardButton("OWNER", url="https://t.me/IM_JISSHU"), InlineKeyboardButton("💠 DEVELOPER", url="https://t.me/JISSHU_BOTS")],
                     [InlineKeyboardButton("💌 SUBSCRIBE 💌", url="https://youtube.com/@JISSHU-BOTS")]
                 ]
@@ -85,7 +85,7 @@ async def help_handler(bot, message):
         
         reply_markup=InlineKeyboardMarkup(
                 [
-                    [InlineKeyboardButton("⚡ UPDATES ⚡", url="https://t.me/JISSHU_BOTS"), InlineKeyboardButton("⚡ SUPPORT ⚡", url="https://t.me/JISSHU_BOTS")],
+                    [InlineKeyboardButton("⚡ UPDATES ⚡", url="https://t.me/JISSHU_BOTS"), InlineKeyboardButton("⚡ SUPPORT ⚡", url="https://t.me/Jisshu_support")],
                     [InlineKeyboardButton("OWNER", url="https://t.me/IM_JISSHU"), InlineKeyboardButton("💠 DEVELOPER", url="https://t.me/JISSHU_BOTS")],
                     [InlineKeyboardButton("💌 SUBSCRIBE 💌", url="https://youtube.com/@JISSHU-BOTS")]
                 ]
@@ -104,12 +104,12 @@ async def about_handler(bot, message):
               
     await message.reply_photo(
             photo="https://graph.org/file/37858b895e6d5ec39b5ad.jpg",
-            caption="**sᴏᴍᴇ ʜɪᴅᴅᴇɴ ᴅᴇᴛᴀɪʟs😜\n\n╭━━━━━━━〔ғɪʟᴇ ᴛᴏ ʟɪɴᴋ ʙᴏᴛ〕\n┃\n┣⪼ʙᴏᴛ ɴᴀᴍᴇ : ғɪʟᴇ ᴛᴏ ʟɪɴᴋ\n┣⪼ᴜᴘᴅᴀᴛᴇᴢ : <a href='https://t.me/JISSHU_BOTS'>JISSHU BOTS Studios</a>\n┣⪼sᴜᴘᴘᴏʀᴛ : <a href='https://t.me/JISSHU_BOTS'>jisshu support</a>\n┣⪼sᴇʀᴠᴇʀ : ʜᴇʀᴜᴋᴏ\n┣⪼ʟɪʙʀᴀʀʏ : ᴘʏʀᴏɢʀᴀᴍ\n┣⪼ʟᴀɴɢᴜᴀɢᴇ: ᴘʏᴛʜᴏɴ 3\n┣⪼ʏᴏᴜᴛᴜʙᴇ : <a href='https://youtube.com/@JISSHU-BOTS'>JISSHU BOTS Studios</a>\n┃\n╰━━━━━━━〔ᴘʟᴇᴀsʀ sᴜᴘᴘᴏʀᴛ〕**", 
+            caption="**sᴏᴍᴇ ʜɪᴅᴅᴇɴ ᴅᴇᴛᴀɪʟs😜\n\n╭━━━━━━━〔ғɪʟᴇ ᴛᴏ ʟɪɴᴋ ʙᴏᴛ〕\n┃\n┣⪼ʙᴏᴛ ɴᴀᴍᴇ : ғɪʟᴇ ᴛᴏ ʟɪɴᴋ\n┣⪼ᴜᴘᴅᴀᴛᴇᴢ : <a href='https://t.me/JISSHU_BOTS'>JISSHU BOTS Studios</a>\n┣⪼sᴜᴘᴘᴏʀᴛ : <a href='https://t.me/Jisshu_support'>jisshu support</a>\n┣⪼sᴇʀᴠᴇʀ : ʜᴇʀᴜᴋᴏ\n┣⪼ʟɪʙʀᴀʀʏ : ᴘʏʀᴏɢʀᴀᴍ\n┣⪼ʟᴀɴɢᴜᴀɢᴇ: ᴘʏᴛʜᴏɴ 3\n┣⪼ʏᴏᴜᴛᴜʙᴇ : <a href='https://youtube.com/@JISSHU-BOTS'>JISSHU BOTS Studios</a>\n┃\n╰━━━━━━━〔ᴘʟᴇᴀsʀ sᴜᴘᴘᴏʀᴛ〕**", 
   
         
         reply_markup=InlineKeyboardMarkup(
                 [
-                    [InlineKeyboardButton("⚡ UPDATES ⚡", url="https://t.me/elitecraft_studios"), InlineKeyboardButton("⚡ SUPPORT ⚡", url="https://t.me/JISSHU_BOTS")],
+                    [InlineKeyboardButton("⚡ UPDATES ⚡", url="https://t.me/JISSHU_BOTS"), InlineKeyboardButton("⚡ SUPPORT ⚡", url="https://t.me/Jisshu_support")],
                     [InlineKeyboardButton("OWNER", url="https://t.me/IM_JISSHU"), InlineKeyboardButton("💠 DEVELOPER", url="https://t.me/JISSHU_BOTS")],
                     [InlineKeyboardButton("💌 SUBSCRIBE 💌", url="https://youtube.com/@JISSHU-BOTS")]
                 ]
